@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>WIN8</Machine>
+    <WindowsUser>Eli</WindowsUser>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <RegisteredManifestChecksum>CD4F8389BABC5576A32859D8F8757E5F64C7224EA7E5EEC8269D6DBC6DFFD47D</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>c728b335-3e86-476a-9226-7e47b3d2f87c_1.0.0.0_neutral__vae36y67adtmr</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>c728b335-3e86-476a-9226-7e47b3d2f87c_vae36y67adtmr!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>c728b335-3e86-476a-9226-7e47b3d2f87c</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Eli</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Eli\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2013-01-14T22:50:28.000</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Eli\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.exe">
+      <PackagePath>Sudoku.exe</PackagePath>
+      <Modified>2013-02-14T14:17:31.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eli\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\bin\Debug\Sudoku.pdb">
+      <PackagePath>Sudoku.pdb</PackagePath>
+      <Modified>2013-02-14T14:17:31.307</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eli\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\Assets\Logo.png">
+      <PackagePath>Assets\Logo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T07:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eli\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\Assets\SmallLogo.png">
+      <PackagePath>Assets\SmallLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T07:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eli\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\Assets\SplashScreen.png">
+      <PackagePath>Assets\SplashScreen.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T07:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eli\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2012-03-16T07:42:52.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eli\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\bin\Debug\App.xaml">
+      <PackagePath>App.xaml</PackagePath>
+      <Modified>2012-12-17T12:45:54.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eli\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\bin\Debug\Common\StandardStyles.xaml">
+      <PackagePath>Common\StandardStyles.xaml</PackagePath>
+      <Modified>2012-06-27T03:19:20.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eli\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\bin\Debug\MainPage.xaml">
+      <PackagePath>MainPage.xaml</PackagePath>
+      <Modified>2012-12-17T19:10:50.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Eli\Documents\Visual Studio 2012\Projects\Sudoku\Sudoku\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2013-01-13T18:30:32.000</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>
